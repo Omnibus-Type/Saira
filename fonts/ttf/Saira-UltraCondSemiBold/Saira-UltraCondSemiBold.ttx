@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.0">
+  <GlyphOrder src="Saira-UltraCondSemiBold.GlyphOrder.ttx"/>
+  <head src="Saira-UltraCondSemiBold._h_e_a_d.ttx"/>
+  <hhea src="Saira-UltraCondSemiBold._h_h_e_a.ttx"/>
+  <maxp src="Saira-UltraCondSemiBold._m_a_x_p.ttx"/>
+  <OS_2 src="Saira-UltraCondSemiBold.O_S_2f_2.ttx"/>
+  <hmtx src="Saira-UltraCondSemiBold._h_m_t_x.ttx"/>
+  <cmap src="Saira-UltraCondSemiBold._c_m_a_p.ttx"/>
+  <fpgm src="Saira-UltraCondSemiBold._f_p_g_m.ttx"/>
+  <prep src="Saira-UltraCondSemiBold._p_r_e_p.ttx"/>
+  <cvt src="Saira-UltraCondSemiBold._c_v_t.ttx"/>
+  <loca src="Saira-UltraCondSemiBold._l_o_c_a.ttx"/>
+  <glyf src="Saira-UltraCondSemiBold._g_l_y_f.ttx"/>
+  <name src="Saira-UltraCondSemiBold._n_a_m_e.ttx"/>
+  <post src="Saira-UltraCondSemiBold._p_o_s_t.ttx"/>
+  <gasp src="Saira-UltraCondSemiBold._g_a_s_p.ttx"/>
+  <GDEF src="Saira-UltraCondSemiBold.G_D_E_F_.ttx"/>
+  <GPOS src="Saira-UltraCondSemiBold.G_P_O_S_.ttx"/>
+  <GSUB src="Saira-UltraCondSemiBold.G_S_U_B_.ttx"/>
+  <DSIG src="Saira-UltraCondSemiBold.D_S_I_G_.ttx"/>
+</ttFont>
