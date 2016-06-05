@@ -46,7 +46,7 @@ Saira is a sans serif system developed in four widths: Saira, Saira Semi Condens
 * Extracondensed ExtraBold
 * Extracondensed Black
 
-To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
+To contribute to the project contact [Omnibus-Type](http://omnibus-type.com/).
 
 ### Designers
 
