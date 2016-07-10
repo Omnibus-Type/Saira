@@ -784,7 +784,6 @@
     <GlyphID id="778" name="rightOpenDialog"/>
     <GlyphID id="779" name="orn.002"/>
     <GlyphID id="780" name="orn.003"/>
-    <GlyphID id="781" name=".ttfautohint"/>
   </GlyphOrder>
 
 </ttFont>

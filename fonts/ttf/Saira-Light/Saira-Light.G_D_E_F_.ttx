@@ -648,13 +648,13 @@
       <LigGlyph index="0">
         <!-- CaretCount=1 -->
         <CaretValue index="0" Format="1">
-          <Coordinate value="302"/>
+          <Coordinate value="303"/>
         </CaretValue>
       </LigGlyph>
       <LigGlyph index="1">
         <!-- CaretCount=1 -->
         <CaretValue index="0" Format="1">
-          <Coordinate value="302"/>
+          <Coordinate value="303"/>
         </CaretValue>
       </LigGlyph>
     </LigCaretList>

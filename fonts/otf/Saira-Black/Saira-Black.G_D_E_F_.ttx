@@ -110,10 +110,12 @@
       <ClassDef glyph="Ohungarumlaut" class="1"/>
       <ClassDef glyph="Omacron" class="1"/>
       <ClassDef glyph="Oslash" class="1"/>
+      <ClassDef glyph="Oslash.bold" class="1"/>
       <ClassDef glyph="Oslashacute" class="1"/>
       <ClassDef glyph="Otilde" class="1"/>
       <ClassDef glyph="P" class="1"/>
       <ClassDef glyph="Q" class="1"/>
+      <ClassDef glyph="Q.bold" class="1"/>
       <ClassDef glyph="R" class="1"/>
       <ClassDef glyph="R.ss01" class="1"/>
       <ClassDef glyph="Racute" class="1"/>
@@ -210,6 +212,7 @@
       <ClassDef glyph="ccircumflex" class="1"/>
       <ClassDef glyph="cdotaccent" class="1"/>
       <ClassDef glyph="cent" class="1"/>
+      <ClassDef glyph="cent.bold" class="1"/>
       <ClassDef glyph="copyright" class="1"/>
       <ClassDef glyph="currency" class="1"/>
       <ClassDef glyph="d" class="1"/>
@@ -220,6 +223,7 @@
       <ClassDef glyph="degree" class="1"/>
       <ClassDef glyph="divide" class="1"/>
       <ClassDef glyph="dollar" class="1"/>
+      <ClassDef glyph="dollar.bold" class="1"/>
       <ClassDef glyph="dotbelowcomb" class="3"/>
       <ClassDef glyph="dotlessi" class="1"/>
       <ClassDef glyph="e" class="1"/>
@@ -315,6 +319,7 @@
       <ClassDef glyph="ordfeminine" class="1"/>
       <ClassDef glyph="ordmasculine" class="1"/>
       <ClassDef glyph="oslash" class="1"/>
+      <ClassDef glyph="oslash.bold" class="1"/>
       <ClassDef glyph="oslashacute" class="1"/>
       <ClassDef glyph="otilde" class="1"/>
       <ClassDef glyph="p" class="1"/>
@@ -605,6 +610,7 @@
       <ClassDef glyph="uni1EF9" class="1"/>
       <ClassDef glyph="uni1EF9.loclGUA" class="1"/>
       <ClassDef glyph="uni20B2" class="1"/>
+      <ClassDef glyph="uni20B2.bold" class="1"/>
       <ClassDef glyph="uni2113" class="1"/>
       <ClassDef glyph="uni2116" class="1"/>
       <ClassDef glyph="uni2126" class="1"/>
@@ -631,6 +637,7 @@
       <ClassDef glyph="ydieresis" class="1"/>
       <ClassDef glyph="ydieresis.loclGUA" class="1"/>
       <ClassDef glyph="yen" class="1"/>
+      <ClassDef glyph="yen.bold" class="1"/>
       <ClassDef glyph="ygrave" class="1"/>
       <ClassDef glyph="ygrave.loclGUA" class="1"/>
       <ClassDef glyph="z" class="1"/>

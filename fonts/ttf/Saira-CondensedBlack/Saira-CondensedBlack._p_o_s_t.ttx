@@ -174,6 +174,8 @@
       <psName name="Zdotaccent"/>
       <psName name="uni1E92"/>
       <psName name="Iacute_J.loclNLD"/>
+      <psName name="Oslash.bold"/>
+      <psName name="Q.bold"/>
       <psName name="Y.loclGUA"/>
       <psName name="Yacute.loclGUA"/>
       <psName name="Ycircumflex.loclGUA"/>
@@ -378,6 +380,7 @@
       <psName name="zacute"/>
       <psName name="zdotaccent"/>
       <psName name="uni1E93"/>
+      <psName name="oslash.bold"/>
       <psName name="iacute_j.loclNLD"/>
       <psName name="y.loclGUA"/>
       <psName name="yacute.loclGUA"/>
@@ -459,6 +462,10 @@
       <psName name="uni2002"/>
       <psName name="Euro"/>
       <psName name="uni20B2"/>
+      <psName name="cent.bold"/>
+      <psName name="dollar.bold"/>
+      <psName name="uni20B2.bold"/>
+      <psName name="yen.bold"/>
       <psName name="uni2126"/>
       <psName name="uni2206"/>
       <psName name="uni00B5"/>
@@ -556,7 +563,6 @@
       <psName name="rightOpenDialog"/>
       <psName name="orn.002"/>
       <psName name="orn.003"/>
-      <psName name=".ttfautohint"/>
     </extraNames>
   </post>
 

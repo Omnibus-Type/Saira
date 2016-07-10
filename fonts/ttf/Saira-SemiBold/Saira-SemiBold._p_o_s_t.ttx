@@ -459,6 +459,10 @@
       <psName name="uni2002"/>
       <psName name="Euro"/>
       <psName name="uni20B2"/>
+      <psName name="cent.bold"/>
+      <psName name="dollar.bold"/>
+      <psName name="uni20B2.bold"/>
+      <psName name="yen.bold"/>
       <psName name="uni2126"/>
       <psName name="uni2206"/>
       <psName name="uni00B5"/>
@@ -556,7 +560,6 @@
       <psName name="rightOpenDialog"/>
       <psName name="orn.002"/>
       <psName name="orn.003"/>
-      <psName name=".ttfautohint"/>
     </extraNames>
   </post>
 

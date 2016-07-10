@@ -23,7 +23,11 @@ Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); y
 This file provides detailed information on the Saira font sources.  
 
 
-**2016 June 4 (v1.000) Initial Commit - Nicolás Silva Schwarzenberg**
+**2016 July 9 (v0.071) New Weight - Nicolás Silva Schwarzenberg**
+
+- Two new weights (from 7 to 9) and new instances distribution in the weight axis
+
+**2016 June 4 (v0.070) Initial Commit - Nicolás Silva Schwarzenberg**
 
 - Initial Commit
 

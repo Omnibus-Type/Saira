@@ -110,10 +110,12 @@
     <mtx name="Ohungarumlaut" width="695" lsb="42"/>
     <mtx name="Omacron" width="695" lsb="42"/>
     <mtx name="Oslash" width="695" lsb="42"/>
+    <mtx name="Oslash.bold" width="695" lsb="42"/>
     <mtx name="Oslashacute" width="695" lsb="42"/>
     <mtx name="Otilde" width="695" lsb="42"/>
     <mtx name="P" width="636" lsb="51"/>
     <mtx name="Q" width="695" lsb="42"/>
+    <mtx name="Q.bold" width="695" lsb="42"/>
     <mtx name="R" width="665" lsb="51"/>
     <mtx name="R.ss01" width="672" lsb="51"/>
     <mtx name="Racute" width="665" lsb="51"/>
@@ -228,6 +230,7 @@
     <mtx name="cdotaccent" width="466" lsb="30"/>
     <mtx name="cedilla" width="260" lsb="20"/>
     <mtx name="cent" width="469" lsb="42"/>
+    <mtx name="cent.bold" width="469" lsb="42"/>
     <mtx name="circumflex" width="407" lsb="20"/>
     <mtx name="colon" width="347" lsb="64"/>
     <mtx name="comma" width="347" lsb="64"/>
@@ -236,13 +239,14 @@
     <mtx name="d" width="584" lsb="30"/>
     <mtx name="dagger" width="554" lsb="72"/>
     <mtx name="daggerdbl" width="554" lsb="72"/>
-    <mtx name="dcaron" width="584" lsb="30"/>
+    <mtx name="dcaron" width="704" lsb="30"/>
     <mtx name="dcroat" width="584" lsb="30"/>
     <mtx name="degree" width="400" lsb="44"/>
     <mtx name="dialog" width="805" lsb="59"/>
     <mtx name="dieresis" width="416" lsb="16"/>
     <mtx name="divide" width="540" lsb="70"/>
     <mtx name="dollar" width="539" lsb="42"/>
+    <mtx name="dollar.bold" width="539" lsb="42"/>
     <mtx name="dotaccent" width="205" lsb="20"/>
     <mtx name="dotbelowcomb" width="0" lsb="-283"/>
     <mtx name="dotlessi" width="306" lsb="44"/>
@@ -335,7 +339,7 @@
     <mtx name="kgreenlandic" width="601" lsb="44"/>
     <mtx name="l" width="306" lsb="44"/>
     <mtx name="lacute" width="306" lsb="44"/>
-    <mtx name="lcaron" width="306" lsb="44"/>
+    <mtx name="lcaron" width="435" lsb="44"/>
     <mtx name="lcommaaccent" width="306" lsb="44"/>
     <mtx name="ldot" width="458" lsb="44"/>
     <mtx name="leftOpenDialog" width="625" lsb="0"/>
@@ -399,6 +403,7 @@
     <mtx name="orn.021" width="753" lsb="45"/>
     <mtx name="orn.022" width="389" lsb="48"/>
     <mtx name="oslash" width="571" lsb="30"/>
+    <mtx name="oslash.bold" width="571" lsb="30"/>
     <mtx name="oslashacute" width="571" lsb="30"/>
     <mtx name="otilde" width="571" lsb="30"/>
     <mtx name="p" width="584" lsb="44"/>
@@ -464,7 +469,7 @@
     <mtx name="summation" width="718" lsb="57"/>
     <mtx name="t" width="438" lsb="17"/>
     <mtx name="tbar" width="438" lsb="17"/>
-    <mtx name="tcaron" width="438" lsb="17"/>
+    <mtx name="tcaron" width="588" lsb="17"/>
     <mtx name="thorn" width="584" lsb="44"/>
     <mtx name="three" width="611" lsb="45"/>
     <mtx name="three.dnom" width="348" lsb="28"/>
@@ -743,6 +748,7 @@
     <mtx name="uni1EF9.loclGUA" width="566" lsb="5"/>
     <mtx name="uni2002" width="300" lsb="0"/>
     <mtx name="uni20B2" width="622" lsb="42"/>
+    <mtx name="uni20B2.bold" width="622" lsb="42"/>
     <mtx name="uni2113" width="577" lsb="-9"/>
     <mtx name="uni2116" width="1069" lsb="51"/>
     <mtx name="uni2126" width="704" lsb="42"/>
@@ -771,6 +777,7 @@
     <mtx name="ydieresis" width="588" lsb="44"/>
     <mtx name="ydieresis.loclGUA" width="566" lsb="5"/>
     <mtx name="yen" width="634" lsb="12"/>
+    <mtx name="yen.bold" width="634" lsb="12"/>
     <mtx name="ygrave" width="588" lsb="44"/>
     <mtx name="ygrave.loclGUA" width="566" lsb="5"/>
     <mtx name="z" width="537" lsb="35"/>

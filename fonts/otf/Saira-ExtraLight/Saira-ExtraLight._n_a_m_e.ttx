@@ -3,25 +3,25 @@
 
   <name>
     <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Copyright (c) 2013-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with reserved font name.
+      Copyright (c) 2013-2016, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with reserved font name.
     </namerecord>
     <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Saira
     </namerecord>
     <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      ExtraLight
+      Extralight
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      1.000;UKWN;Saira-ExtraLight
+      0.071;UKWN;Saira-Extralight
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Saira ExtraLight
+      Saira Extralight
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 1.000;PS 000.070;hotconv 1.0.88;makeotf.lib2.5.64775
+      Version 0.071;PS 000.071;hotconv 1.0.88;makeotf.lib2.5.64775
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Saira-ExtraLight
+      Saira-Extralight
     </namerecord>
     <namerecord nameID="8" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Omnibus-Type
@@ -36,25 +36,25 @@
       http://www.omnibus-type.com/fonts/chivo.php
     </namerecord>
     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
-      Copyright (c) 2013-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with reserved font name.
+      Copyright (c) 2013-2016, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with reserved font name.
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
-      Saira ExtraLight
+      Saira Extralight
     </namerecord>
     <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
       Regular
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      1.000;UKWN;Saira-ExtraLight
+      0.071;UKWN;Saira-Extralight
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
-      Saira-ExtraLight
+      Saira-Extralight
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 1.000;PS 000.070;hotconv 1.0.88;makeotf.lib2.5.64775
+      Version 0.071;PS 000.071;hotconv 1.0.88;makeotf.lib2.5.64775
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
-      Saira-ExtraLight
+      Saira-Extralight
     </namerecord>
     <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
       Omnibus-Type
@@ -72,7 +72,7 @@
       Saira
     </namerecord>
     <namerecord nameID="17" platformID="3" platEncID="1" langID="0x409">
-      ExtraLight
+      Extralight
     </namerecord>
   </name>
 

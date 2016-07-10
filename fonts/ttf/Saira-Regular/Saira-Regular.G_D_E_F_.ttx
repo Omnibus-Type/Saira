@@ -631,6 +631,7 @@
       <ClassDef glyph="ydieresis" class="1"/>
       <ClassDef glyph="ydieresis.loclGUA" class="1"/>
       <ClassDef glyph="yen" class="1"/>
+      <ClassDef glyph="yen.bold" class="1"/>
       <ClassDef glyph="ygrave" class="1"/>
       <ClassDef glyph="ygrave.loclGUA" class="1"/>
       <ClassDef glyph="z" class="1"/>
@@ -648,13 +649,13 @@
       <LigGlyph index="0">
         <!-- CaretCount=1 -->
         <CaretValue index="0" Format="1">
-          <Coordinate value="316"/>
+          <Coordinate value="313"/>
         </CaretValue>
       </LigGlyph>
       <LigGlyph index="1">
         <!-- CaretCount=1 -->
         <CaretValue index="0" Format="1">
-          <Coordinate value="316"/>
+          <Coordinate value="313"/>
         </CaretValue>
       </LigGlyph>
     </LigCaretList>

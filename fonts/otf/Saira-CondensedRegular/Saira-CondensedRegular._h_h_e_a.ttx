@@ -6,10 +6,10 @@
     <ascent value="1135"/>
     <descent value="-439"/>
     <lineGap value="0"/>
-    <advanceWidthMax value="938"/>
-    <minLeftSideBearing value="-466"/>
-    <minRightSideBearing value="-144"/>
-    <xMaxExtent value="908"/>
+    <advanceWidthMax value="921"/>
+    <minLeftSideBearing value="-457"/>
+    <minRightSideBearing value="-133"/>
+    <xMaxExtent value="893"/>
     <caretSlopeRise value="1"/>
     <caretSlopeRun value="0"/>
     <caretOffset value="0"/>
@@ -18,7 +18,7 @@
     <reserved2 value="0"/>
     <reserved3 value="0"/>
     <metricDataFormat value="0"/>
-    <numberOfHMetrics value="781"/>
+    <numberOfHMetrics value="785"/>
   </hhea>
 
 </ttFont>

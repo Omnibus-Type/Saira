@@ -7,16 +7,16 @@
     <numGlyphs value="782"/>
     <maxPoints value="112"/>
     <maxContours value="8"/>
-    <maxCompositePoints value="105"/>
-    <maxCompositeContours value="6"/>
+    <maxCompositePoints value="106"/>
+    <maxCompositeContours value="5"/>
     <maxZones value="2"/>
-    <maxTwilightPoints value="48"/>
-    <maxStorage value="64"/>
-    <maxFunctionDefs value="119"/>
+    <maxTwilightPoints value="40"/>
+    <maxStorage value="57"/>
+    <maxFunctionDefs value="139"/>
     <maxInstructionDefs value="0"/>
-    <maxStackElements value="151"/>
-    <maxSizeOfInstructions value="3042"/>
-    <maxComponentElements value="5"/>
+    <maxStackElements value="137"/>
+    <maxSizeOfInstructions value="3350"/>
+    <maxComponentElements value="4"/>
     <maxComponentDepth value="1"/>
   </maxp>
 

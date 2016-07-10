@@ -4,16 +4,16 @@
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="1.0"/>
-    <checkSumAdjustment value="0x6096ed3b"/>
+    <fontRevision value="0.071"/>
+    <checkSumAdjustment value="0x4c5cf1ee"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00000011"/>
     <unitsPerEm value="1000"/>
-    <created value="Sun Oct 18 13:07:04 2015"/>
-    <modified value="Sun Oct 18 13:07:04 2015"/>
-    <xMin value="-456"/>
-    <yMin value="-342"/>
-    <xMax value="892"/>
+    <created value="Sat Jul  9 19:03:22 2016"/>
+    <modified value="Sat Jul  9 19:03:22 2016"/>
+    <xMin value="-455"/>
+    <yMin value="-341"/>
+    <xMax value="890"/>
     <yMax value="1086"/>
     <macStyle value="00000000 00000000"/>
     <lowestRecPPEM value="3"/>
