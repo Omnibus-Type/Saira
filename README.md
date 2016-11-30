@@ -3,7 +3,7 @@
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Saira is a sans serif system developed in four (4) widths: Saira, Saira Semi Condensed, Saira Condensed and Saira Extra Condensed, each with nine (9) variants (Extra Light, Light, Regular, Semi Bold, Bold, Extra Bold and Black).
+Saira is a sans serif system developed in four widths: Saira, Saira Semi Condensed, Saira Condensed and Saira Extra Condensed, each with nine (9) variants (Extra Light, Light, Regular, Semi Bold, Bold, Extra Bold and Black).
 
 ![Sample of Saira Family.](./documentation/Saira.png "Saira")
 
