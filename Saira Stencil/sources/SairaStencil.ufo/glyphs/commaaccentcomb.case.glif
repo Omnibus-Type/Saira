@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb.case" format="1">
+  <advance width="216"/>
+  <outline>
+    <component base="commabelow"/>
+    <contour>
+      <point x="108" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="108" y="-351" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

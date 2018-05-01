@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgrave.case" format="1">
+  <advance width="450"/>
+  <outline>
+    <contour>
+      <point x="320" y="751" type="line"/>
+      <point x="430" y="751" type="line"/>
+      <point x="430" y="755" type="line"/>
+      <point x="359" y="870" type="line"/>
+      <point x="210" y="870" type="line"/>
+      <point x="210" y="866" type="line"/>
+    </contour>
+    <contour>
+      <point x="129" y="751" type="line"/>
+      <point x="240" y="751" type="line"/>
+      <point x="240" y="755" type="line"/>
+      <point x="168" y="870" type="line"/>
+      <point x="20" y="870" type="line"/>
+      <point x="20" y="866" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="688" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

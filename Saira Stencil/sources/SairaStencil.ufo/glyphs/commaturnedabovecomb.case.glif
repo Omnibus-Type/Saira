@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecomb.case" format="1">
+  <advance width="216"/>
+  <outline>
+    <component base="commaturnedabove"/>
+    <contour>
+      <point x="108" y="688" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="108" y="869" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Racute.salt" format="1">
+  <advance width="674"/>
+  <outline>
+    <component base="R.salt"/>
+    <component base="acutecomb.case" xOffset="561"/>
+  </outline>
+</glyph>
