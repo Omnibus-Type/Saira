@@ -4,7 +4,7 @@
 *SIL Open Font License, 1.1*
 
 
-Saira Stencil is a stencil developed for XXXXXX.
+Saira Stencil is the  cut out version of Saira, designed by Héctor Gatti and developed by Omnibus-Type Team.
 
 ![Sample of Saira Stencil.](SairaStencil.png "Saira Stencil")
 
