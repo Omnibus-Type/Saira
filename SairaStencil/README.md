@@ -6,7 +6,7 @@
 
 Saira Stencil is a stencil developed for XXXXXX.
 
-![Sample of Saira Stencil Family.](./documentation/SairaStencil.png "Saira Stencil")
+![Sample of Saira Stencil.](SairaStencil.png "Saira Stencil")
 
 
 ####Saira Family contains:
