@@ -10,11 +10,11 @@
 	<key>com.schriftgestaltung.disablesLastChange</key>
 	<true/>
 	<key>com.schriftgestaltung.font.Disable Last Change</key>
-	<integer>1</integer>
+	<true/>
 	<key>com.schriftgestaltung.font.Use Line Breaks</key>
-	<integer>1</integer>
+	<true/>
 	<key>com.schriftgestaltung.font.Use Typo Metrics</key>
-	<integer>1</integer>
+	<true/>
 	<key>com.schriftgestaltung.font.license</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>com.schriftgestaltung.font.licenseURL</key>

@@ -46,7 +46,7 @@ nine.numr";
 name = numr;
 }
 );
-copyright = "Copyright (c) 2014-2018, Omnibus-Type (www.omnibus-type.com|omnibus.type@gmail.com).";
+copyright = "Copyright (c) 2018, The Saira Stencil Project Authors (https://github.com/Omnibus-Type/Saira/SairaStencil)";
 customParameters = (
 {
 name = trademark;
