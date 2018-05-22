@@ -7,15 +7,15 @@
 	<key>capHeight</key>
 	<integer>688</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2013-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)</string>
+	<string>Copyright (c) 2014-2018, Omnibus-Type (www.omnibus-type.com|omnibus.type@gmail.com).</string>
 	<key>descender</key>
 	<integer>-250</integer>
 	<key>familyName</key>
 	<string>Saira Stencil</string>
 	<key>openTypeHeadCreated</key>
-	<string>2018/04/30 11:02:55</string>
+	<string>2018/05/21 20:34:55</string>
 	<key>openTypeHheaAscender</key>
-	<integer>1170</integer>
+	<integer>1163</integer>
 	<key>openTypeHheaDescender</key>
 	<integer>-360</integer>
 	<key>openTypeHheaLineGap</key>
@@ -32,24 +32,15 @@
 	<string>Saira Stencil</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
-	<key>openTypeOS2CodePageRanges</key>
-	<array>
-		<integer>0</integer>
-	</array>
 	<key>openTypeOS2Type</key>
 	<array>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>750</integer>
+	<integer>1163</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>-250</integer>
+	<integer>-360</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>800</integer>
-	<key>openTypeOS2UnicodeRanges</key>
-	<array>
-		<integer>0</integer>
-		<integer>1</integer>
-	</array>
 	<key>openTypeOS2VendorID</key>
 	<string>OMNI</string>
 	<key>openTypeOS2WeightClass</key>
@@ -57,7 +48,7 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>1170</integer>
+	<integer>1163</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>360</integer>
 	<key>postscriptBlueValues</key>
@@ -72,9 +63,7 @@
 		<integer>757</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>SairaStencil</string>
-	<key>postscriptFullName</key>
-	<string>SairaStencil</string>
+	<string>SairaStencil-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-213</integer>
@@ -97,8 +86,6 @@
 	<integer>-135</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>80</integer>
-	<key>styleMapFamilyName</key>
-	<string>SairaStencil</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
@@ -110,7 +97,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>510</integer>
 </dict>

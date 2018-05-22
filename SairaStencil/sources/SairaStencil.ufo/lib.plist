@@ -4,21 +4,17 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>LO</string>
-		<string>/breveacute/breveacute.case/brevecomb_acutecomb.case/Einvertedbreve</string>
-		<string>/Nhookleft</string>
-		<string>/Gcommaaccent</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.disablesLastChange</key>
 	<true/>
 	<key>com.schriftgestaltung.font.Disable Last Change</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.schriftgestaltung.font.Use Line Breaks</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.schriftgestaltung.font.Use Typo Metrics</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.schriftgestaltung.font.license</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>com.schriftgestaltung.font.licenseURL</key>

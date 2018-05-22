@@ -1,11 +1,5 @@
 {
-.appVersion = "1138";
-DisplayStrings = (
-LO,
-"/breveacute/breveacute.case/brevecomb_acutecomb.case/Einvertedbreve",
-"/Nhookleft",
-"/Gcommaaccent"
-);
+.appVersion = "1143";
 classes = (
 {
 automatic = 1;
@@ -52,7 +46,7 @@ nine.numr";
 name = numr;
 }
 );
-copyright = "Copyright (c) 2013-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)";
+copyright = "Copyright (c) 2014-2018, Omnibus-Type (www.omnibus-type.com|omnibus.type@gmail.com).";
 customParameters = (
 {
 name = trademark;
@@ -86,22 +80,9 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = unicodeRanges;
-value = (
-0,
-1
-);
-},
-{
-name = codePageRanges;
-value = (
-1252
-);
 }
 );
-date = "2018-04-30 14:02:55 +0000";
+date = "2018-05-21 23:34:55 +0000";
 designer = "Hector Gatti with collaboration of the Omnibus-Type team";
 designerURL = "http://www.omnibus-type.com/fonts/saira.php";
 disablesNiceNames = 1;
@@ -729,11 +710,11 @@ capHeight = 688;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1163;
 },
 {
 name = typoDescender;
-value = -250;
+value = -360;
 },
 {
 name = typoLineGap;
@@ -741,7 +722,7 @@ value = 800;
 },
 {
 name = winAscent;
-value = 1170;
+value = 1163;
 },
 {
 name = winDescent;
@@ -749,7 +730,7 @@ value = 360;
 },
 {
 name = hheaAscender;
-value = 1170;
+value = 1163;
 },
 {
 name = hheaDescender;
@@ -21511,7 +21492,7 @@ layers = (
 {
 color = -1;
 layerId = "CCCBC4F5-0E52-43D6-BD5E-05F7881D6474";
-width = 600;
+width = 260;
 }
 );
 unicode = 000D;
@@ -32013,27 +31994,14 @@ layers = (
 {
 color = -1;
 layerId = "CCCBC4F5-0E52-43D6-BD5E-05F7881D6474";
-width = 600;
+width = 0;
 }
 );
+unicode = 0000;
 }
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = SairaStencil;
-},
-{
-name = postscriptFullName;
-value = SairaStencil;
-},
-{
-name = styleMapFamilyName;
-value = SairaStencil;
-}
-);
 instanceInterpolations = {
 "CCCBC4F5-0E52-43D6-BD5E-05F7881D6474" = 1;
 };
@@ -32486,5 +32454,5 @@ manufacturer = "Omnibus-Type";
 manufacturerURL = "http://www.omnibus-type.com/fonts/saira.php";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
