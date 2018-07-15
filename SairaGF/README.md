@@ -9,7 +9,7 @@ Saira is a sans serif system developed in four widths: Saira, Saira Semi Condens
 ![Sample of Saira Family.](./documentation/Saira.png "Saira")
 
 
-####Saira Family contains:
+#### Saira Family contains:
 * Thin
 * ExtraLight
 * Light
@@ -96,12 +96,12 @@ If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
 
-**N:** **Nicolas Silva Schwarzenberg**  
+**N:** **Nicolás Silva Schwarzenberg**  
 **E:** nsilva.design@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development  
 
-**N:** **Hector Gatti**  
+**N:** **Héctor Gatti**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer
