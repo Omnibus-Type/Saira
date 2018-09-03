@@ -709,18 +709,6 @@ ascender = 750;
 capHeight = 688;
 customParameters = (
 {
-name = typoAscender;
-value = 1163;
-},
-{
-name = typoDescender;
-value = -360;
-},
-{
-name = typoLineGap;
-value = 800;
-},
-{
 name = winAscent;
 value = 1163;
 },
@@ -729,20 +717,32 @@ name = winDescent;
 value = 360;
 },
 {
-name = hheaAscender;
-value = 1163;
-},
-{
-name = hheaDescender;
-value = -360;
-},
-{
 name = underlinePosition;
 value = -135;
 },
 {
 name = underlineThickness;
 value = 80;
+},
+{
+name = typoAscender;
+value = 1135;
+},
+{
+name = typoDescender;
+value = -439;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1135;
+},
+{
+name = hheaDescender;
+value = -439;
 },
 {
 name = hheaLineGap;
@@ -32454,5 +32454,5 @@ manufacturer = "Omnibus-Type";
 manufacturerURL = "http://www.omnibus-type.com/fonts/saira.php";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }
