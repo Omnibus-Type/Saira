@@ -4,7 +4,7 @@
 *SIL Open Font License, 1.1*
 
 
-Saira Stencil is the  cut out version of Saira, designed by Héctor Gatti and developed by Omnibus-Type Team.
+Saira Stencil is the cut out version of Saira, designed by Héctor Gatti and developed by Omnibus-Type Team.
 
 ![Sample of Saira Stencil.](SairaStencil.png "Saira Stencil")
 
@@ -17,11 +17,11 @@ To contribute to the project contact [Omnibus-Type](http://omnibus-type.com/).
 
 ### Designers
 
-* Hector Gatti
+* Héctor Gatti
 
 ### License
 
-Copyright (c) 2014-2018, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
+Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -33,9 +33,9 @@ This information should be distributed along with the Saira fonts and any deriva
 
 ### Saira is a typeface family that supports the following Unicode language range: 
 
-* Basic Latin 				U+0020-U+007E
+* Basic Latin 			U+0020-U+007E
 * Latin-1 Supplement 		U+00A0-U+00FF
-* Latin Extended-A 			U+0100-U+017F
+* Latin Extended-A 		U+0100-U+017F
 * Latin Extended Additional*	U+1E00-U+1EFF *(111/256)
 
 **Character map to support MS Codepages:**
@@ -48,12 +48,14 @@ This information should be distributed along with the Saira fonts and any deriva
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**2018 May 21 (v1.001) Checking names - Yorlmar Campos**
+**2018 October 29 (v1.003)**
+- Updated to GF Latin Plus set
+- Supports 218 Latin languages used in 212 countries
 
+**2018 May 21 (v1.001) Checking names**
 - Deleted Custom Parameter Names
 
-**2018 Apr 30 (v1.000) Initial Commit - Yorlmar Campos**
-
+**2018 Apr 30 (v1.000) Initial Commit**
 - Initial Commit
 
 ### Acknowledgements
@@ -61,10 +63,10 @@ This information should be distributed along with the Saira fonts and any deriva
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
-**N:** **Yorlmar Campos**  
+**N:** **Héctor Gatti**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
-**D:** Typeface development
+**D:** Designer
 
 **N:** **Oscar Guerrero Cañizares**  
 **E:** omnibus.type@gmail.com  
@@ -76,7 +78,7 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development
 
-**N:** **Hector Gatti**  
+**N:** **Yorlmar Campos**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
-**D:** Designer 
+**D:** Typeface development

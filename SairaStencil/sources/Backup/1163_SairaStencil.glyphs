@@ -1,5 +1,5 @@
 {
-.appVersion = "1216";
+.appVersion = "1163";
 classes = (
 {
 automatic = 1;
@@ -46,7 +46,7 @@ nine.numr";
 name = numr;
 }
 );
-copyright = "Copyright (c) 2019, The Saira Stencil Project Authors (https://github.com/Omnibus-Type/Saira/SairaStencil)";
+copyright = "Copyright 2018 The Saira Stencil Project Authors (https://github.com/Omnibus-Type/Saira/SairaStencil)";
 customParameters = (
 {
 name = trademark;
@@ -82,7 +82,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2018-10-29 23:34:55 +0000";
+date = "2018-05-21 23:34:55 +0000";
 designer = "Hector Gatti with collaboration of the Omnibus-Type team";
 designerURL = "http://www.omnibus-type.com/fonts/saira.php";
 disablesNiceNames = 1;

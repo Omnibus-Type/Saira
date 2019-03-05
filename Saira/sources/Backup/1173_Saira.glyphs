@@ -1,5 +1,5 @@
 {
-.appVersion = "1216";
+.appVersion = "1173";
 DisplayStrings = (
 "/commercialMinusSign ×%/perthousand"
 );
@@ -10,7 +10,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2019, The Saira Project Authors (https://github.com/Omnibus-Type/Saira/Saira)";
+copyright = "Copyright (c) 2013-2018 The Saira Project Authors (https://github.com/Omnibus-Type/Saira) with Reserved Font Name \"Saira\".";
 customParameters = (
 {
 name = trademark;
@@ -192792,8 +192792,6 @@ value = Saira;
 interpolationWeight = 46;
 interpolationWidth = 363;
 instanceInterpolations = {
-"374FF654-0B40-45EE-AE97-0DEB7620D1EC" = 0.00099;
-"E6BBBBE7-ECAD-4929-840D-43673C7BDEAF" = 0.00066;
 "E7A95A6A-7487-49EE-B62A-BA87B06E4B57" = 0.12859;
 UUID0 = 0.86977;
 };
@@ -192830,7 +192828,6 @@ interpolationWeight = 61;
 interpolationWidth = 355;
 instanceInterpolations = {
 "374FF654-0B40-45EE-AE97-0DEB7620D1EC" = 0.00132;
-"E6BBBBE7-ECAD-4929-840D-43673C7BDEAF" = 0.00088;
 "E7A95A6A-7487-49EE-B62A-BA87B06E4B57" = 0.30478;
 UUID0 = 0.69302;
 };
@@ -193736,10 +193733,9 @@ value = "Saira Condensed";
 interpolationWeight = 167;
 interpolationWidth = 222;
 instanceInterpolations = {
-"374FF654-0B40-45EE-AE97-0DEB7620D1EC" = 0.001;
-"4F93A97B-747D-4721-B098-38A63C534D7A" = 0.33046;
-"7836D3B9-397C-42C1-8084-A98A44B9119A" = 0.66678;
-"E7A95A6A-7487-49EE-B62A-BA87B06E4B57" = 0.00176;
+"4F93A97B-747D-4721-B098-38A63C534D7A" = 0.33034;
+"7836D3B9-397C-42C1-8084-A98A44B9119A" = 0.66666;
+"E7A95A6A-7487-49EE-B62A-BA87B06E4B57" = 0.00164;
 };
 name = Black;
 weightClass = Black;
@@ -193886,10 +193882,8 @@ interpolationWeight = 66;
 interpolationWidth = 222;
 instanceInterpolations = {
 "374FF654-0B40-45EE-AE97-0DEB7620D1EC" = -0.00185;
-"4F93A97B-747D-4721-B098-38A63C534D7A" = -0.00054;
 "7836D3B9-397C-42C1-8084-A98A44B9119A" = 0.28692;
 "E6BBBBE7-ECAD-4929-840D-43673C7BDEAF" = 0.71602;
-"E7A95A6A-7487-49EE-B62A-BA87B06E4B57" = -0.00054;
 };
 name = Regular;
 widthClass = "Extra Condensed";

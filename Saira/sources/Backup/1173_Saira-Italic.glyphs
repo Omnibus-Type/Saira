@@ -1,5 +1,5 @@
 {
-.appVersion = "1216";
+.appVersion = "1173";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2019, The Saira Project Authors (https://github.com/Omnibus-Type/Saira/Saira)";
+copyright = "Copyright (c) 2013-2018 The Saira Project Authors (https://github.com/Omnibus-Type/Saira) with Reserved Font Name \"Saira\".";
 customParameters = (
 {
 name = trademark;
@@ -147260,9 +147260,7 @@ interpolationWeight = 46;
 interpolationWidth = 363;
 instanceInterpolations = {
 "20A7088A-67D7-4614-84CF-19C576DDC019" = 0.12859;
-"C784E404-3F19-435D-96BB-DB276E1DA8D0" = 0.00099;
 "CD898CA3-FB76-4965-A23E-9AA06D1CE2B1" = 0.86977;
-"FA01890A-5211-455F-9108-1209F66A586C" = 0.00066;
 };
 name = "ExtraLight Italic";
 weightClass = ExtraLight;
@@ -147299,7 +147297,6 @@ instanceInterpolations = {
 "20A7088A-67D7-4614-84CF-19C576DDC019" = 0.30478;
 "C784E404-3F19-435D-96BB-DB276E1DA8D0" = 0.00132;
 "CD898CA3-FB76-4965-A23E-9AA06D1CE2B1" = 0.69302;
-"FA01890A-5211-455F-9108-1209F66A586C" = 0.00088;
 };
 name = "Light Italic";
 weightClass = Light;
@@ -147483,9 +147480,8 @@ value = Saira;
 interpolationWeight = 189;
 interpolationWidth = 296;
 instanceInterpolations = {
-"20A7088A-67D7-4614-84CF-19C576DDC019" = 0.26508;
-"B4DE345C-CFDB-4A54-B125-3358BD91D59F" = 0.73417;
-"C784E404-3F19-435D-96BB-DB276E1DA8D0" = 0.00075;
+"20A7088A-67D7-4614-84CF-19C576DDC019" = 0.26494;
+"B4DE345C-CFDB-4A54-B125-3358BD91D59F" = 0.73402;
 };
 name = "ExtraBold Italic";
 weightClass = ExtraBold;
@@ -148208,10 +148204,9 @@ value = "Saira Condensed";
 interpolationWeight = 167;
 interpolationWidth = 222;
 instanceInterpolations = {
-"20A7088A-67D7-4614-84CF-19C576DDC019" = 0.00176;
-"47937877-2CF8-49A0-A6AF-2B1A27CB5FF4" = 0.66678;
-"B4DE345C-CFDB-4A54-B125-3358BD91D59F" = 0.33046;
-"C784E404-3F19-435D-96BB-DB276E1DA8D0" = 0.001;
+"20A7088A-67D7-4614-84CF-19C576DDC019" = 0.00164;
+"47937877-2CF8-49A0-A6AF-2B1A27CB5FF4" = 0.66666;
+"B4DE345C-CFDB-4A54-B125-3358BD91D59F" = 0.33034;
 };
 name = "Black Italic";
 weightClass = Black;
