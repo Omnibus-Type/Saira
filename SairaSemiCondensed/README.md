@@ -1,4 +1,4 @@
-# Saira family
+# Saira Semi Condensed family
 
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
@@ -6,19 +6,11 @@
 
 Saira is a sans serif system developed in four widths: Saira, Saira Semi Condensed, Saira Condensed and Saira Extra Condensed, each with nine variants (Extra Light, Light, Regular, Semi Bold, Bold, Extra Bold and Black).
 
-![Sample of Saira Family.](./documentation/Saira.png "Saira")
+![Sample of Saira Family.](SairaSemiCond-01.png "Saira Semi Condensed")
+![Sample of Saira Family.](SairaSemiCond-02.png "Saira Semi Condensed")
 
 
 #### Saira Family contains:
-* Thin / Thin Italic
-* ExtraLight / ExtraLight Italic
-* Light / Light Italic
-* Regular / Italic
-* Medium / Medium Italic
-* SemiBold / SemiBold Italic
-* Bold / Bold Italic
-* ExtraBold / ExtraBold Italic
-* Black / Black Italic
 * Semicondensed Thin / Semicondensed Thin Italic
 * Semicondensed ExtraLight / Semicondensed ExtraLight Italic
 * Semicondensed Light / Semicondensed Light Italic
@@ -28,24 +20,6 @@ Saira is a sans serif system developed in four widths: Saira, Saira Semi Condens
 * Semicondensed Bold / Semicondensed Bold Italic
 * Semicondensed ExtraBold / Semicondensed ExtraBold Italic
 * Semicondensed Black / Semicondensed Black Italic
-* Condensed Thin / Condensed Thin Italic
-* Condensed ExtraLight / Condensed ExtraLight Italic
-* Condensed Light / Condensed Light Italic
-* Condensed Regular / Condensed Italic
-* Condensed Medium / Condensed Medium Italic
-* Condensed SemiBold / Condensed SemiBold Italic
-* Condensed Bold / Condensed Bold Italic
-* Condensed ExtraBold / Condensed ExtraBold Italic
-* Condensed Black / Condensed Black Italic
-* Extracondensed Thin / Extracondensed Thin Italic
-* Extracondensed ExtraLight / Extracondensed ExtraLight Italic
-* Extracondensed Light / Extracondensed Light Italic
-* Extracondensed Regular / Extracondensed Italic
-* Extracondensed Medium / Extracondensed Medium Italic
-* Extracondensed SemiBold / Extracondensed SemiBold Italic
-* Extracondensed Bold / Extracondensed Bold Italic
-* Extracondensed ExtraBold / Extracondensed ExtraBold Italic
-* Extracondensed Black / Extracondensed Black Italic
 
 To contribute to the project contact [Omnibus-Type](http://omnibus-type.com/).
 
