@@ -1,4 +1,4 @@
-# Saira Semi Condensed family
+# Saira Semicondensed family
 
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
@@ -6,11 +6,11 @@
 
 Saira is a sans serif system developed in four widths: Saira, Saira Semi Condensed, Saira Condensed and Saira Extra Condensed, each with nine variants (Extra Light, Light, Regular, Semi Bold, Bold, Extra Bold and Black).
 
-![Sample of Saira Family.](SairaSemiCond-01.png "Saira Semi Condensed")
-![Sample of Saira Family.](SairaSemiCond-02.png "Saira Semi Condensed")
+![Sample of Saira Family.](SairaSemiCond-01.png "Saira Semicondensed")
+![Sample of Saira Family.](SairaSemiCond-02.png "Saira Semicondensed")
 
 
-#### Saira Family contains:
+#### Saira Semicondensed Family contains:
 * Semicondensed Thin / Semicondensed Thin Italic
 * Semicondensed ExtraLight / Semicondensed ExtraLight Italic
 * Semicondensed Light / Semicondensed Light Italic
