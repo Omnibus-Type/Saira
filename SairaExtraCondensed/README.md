@@ -6,37 +6,10 @@
 
 Saira is a sans serif system developed in four widths: Saira, Saira Semi Condensed, Saira Condensed and Saira Extra Condensed, each with nine variants (Extra Light, Light, Regular, Semi Bold, Bold, Extra Bold and Black).
 
-![Sample of Saira Family.](./documentation/Saira.png "Saira")
+![Sample of Saira Family.](SairaExtraCond-01.png "Saira Extra Condensed")
+![Sample of Saira Family.](SairaExtraCond-02.png "Saira Extra Condensed")
 
-
-#### Saira Family contains:
-* Thin / Thin Italic
-* ExtraLight / ExtraLight Italic
-* Light / Light Italic
-* Regular / Italic
-* Medium / Medium Italic
-* SemiBold / SemiBold Italic
-* Bold / Bold Italic
-* ExtraBold / ExtraBold Italic
-* Black / Black Italic
-* Semicondensed Thin / Semicondensed Thin Italic
-* Semicondensed ExtraLight / Semicondensed ExtraLight Italic
-* Semicondensed Light / Semicondensed Light Italic
-* Semicondensed Regular / Semicondensed Italic
-* Semicondensed Medium / Semicondensed Medium Italic
-* Semicondensed SemiBold / Semicondensed SemiBold Italic
-* Semicondensed Bold / Semicondensed Bold Italic
-* Semicondensed ExtraBold / Semicondensed ExtraBold Italic
-* Semicondensed Black / Semicondensed Black Italic
-* Condensed Thin / Condensed Thin Italic
-* Condensed ExtraLight / Condensed ExtraLight Italic
-* Condensed Light / Condensed Light Italic
-* Condensed Regular / Condensed Italic
-* Condensed Medium / Condensed Medium Italic
-* Condensed SemiBold / Condensed SemiBold Italic
-* Condensed Bold / Condensed Bold Italic
-* Condensed ExtraBold / Condensed ExtraBold Italic
-* Condensed Black / Condensed Black Italic
+#### Saira Extra Condensed Family contains:
 * Extracondensed Thin / Extracondensed Thin Italic
 * Extracondensed ExtraLight / Extracondensed ExtraLight Italic
 * Extracondensed Light / Extracondensed Light Italic
