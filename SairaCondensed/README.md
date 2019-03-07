@@ -1,4 +1,4 @@
-# Saira family
+# Saira Condensed family
 
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
