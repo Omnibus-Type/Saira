@@ -1,10 +1,11 @@
 # Saira family
 
-**Omnibus-Type**  
-*SIL Open Font License, 1.1*
+**Gatti & Omnibus-Type Team**
+*SIL Open Font License 1.1,*
+*18 fonts, 885 glyphs each variant (Press Series).*
+*Tipos Latinos 2014*
 
-
-Saira is a sans serif system developed in four widths: Saira, Saira Semi Condensed, Saira Condensed and Saira Extra Condensed, each with nine variants (Extra Light, Light, Regular, Semi Bold, Bold, Extra Bold and Black).
+Saira is a contemporary sans serif system, a versatile family of 18 styles (9 different weight variants, plus matching italics.) It is part of the Press Series, for it is applicable in newspapers, magazines, books and websites. Showing high adaptability, it can be used in headlines and long texts. The original masters were designed by Héctor Gatti. The character sets were later completed by the Omnibus-Type Team.
 
 ![Sample of Saira Family.](Saira-01.png "Saira")
 ![Sample of Saira Family.](Saira-02.png "Saira")

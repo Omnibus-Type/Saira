@@ -1,10 +1,11 @@
 # Saira Stencil
 
-**Omnibus-Type**  
-*SIL Open Font License, 1.1*
+**Gatti & Omnibus-Type Team**
+*SIL Open Font License 1.1,*
+*635 characters, 904 glyphs (Press Series).*
+*Tipos Latinos 2014*
 
-
-Saira Stencil is the cut out version of Saira, designed by Héctor Gatti and developed by Omnibus-Type Team.
+Saira Stencil is the cut version of Saira, maintaining its primary structure, but adding precise slits. Some of these cuts seem rather logical, others rather offbeat. Sharp and striking, Saira Stencil offers attractive options for composing titles and brands. It was designed by Héctor Gatti and developed by the Omnibus-Type Team.
 
 ![Sample of Saira Stencil.](SairaStencil.png "Saira Stencil")
 

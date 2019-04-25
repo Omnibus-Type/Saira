@@ -1,26 +1,26 @@
-# Saira Condensed family
+# Saira family
 
 **Gatti & Omnibus-Type Team**
 *SIL Open Font License 1.1,*
-*18 fonts, 885 glyphs each variant (Press Series).*
+*72 fonts, 885 glyphs each variant (Press Series).*
 *Tipos Latinos 2014*
 
-Saira Condensed is a contemporary sans serif system, a versatile family of 18 styles (9 different weight variants, plus matching italics.) It is part of the Press Series, for it is applicable in newspapers, magazines, books and websites. Showing high adaptability, it can be used in headlines and long texts. The original masters were designed by Héctor Gatti. The character sets were later completed by the Omnibus-Type Team.
+Saira is a contemporary sans serif system, a versatile family of 72 styles (9 different weight variants, in 4 widths, plus matching italics.) It is part of the Press Series, for it is applicable in newspapers, magazines, books and websites. Showing high adaptability, it can be used in headlines and long texts. The original masters were designed by Héctor Gatti. The character sets were later completed by the Omnibus-Type Team.
 
-![Sample of Saira Family.](SairaCond-01.png "Saira Condensed")
-![Sample of Saira Family.](SairaCond-02.png "Saira Condensed")
+![Sample of Saira Family.](Sairas-01.png "Saira")
+![Sample of Saira Family.](Sairas-02.png "Saira")
 
 
-#### Saira Condensed Family contains:
-* Condensed Thin / Condensed Thin Italic
-* Condensed ExtraLight / Condensed ExtraLight Italic
-* Condensed Light / Condensed Light Italic
-* Condensed Regular / Condensed Italic
-* Condensed Medium / Condensed Medium Italic
-* Condensed SemiBold / Condensed SemiBold Italic
-* Condensed Bold / Condensed Bold Italic
-* Condensed ExtraBold / Condensed ExtraBold Italic
-* Condensed Black / Condensed Black Italic
+#### Saira Family contains:
+* Thin / Thin Italic
+* ExtraLight / ExtraLight Italic
+* Light / Light Italic
+* Regular / Italic
+* Medium / Medium Italic
+* SemiBold / SemiBold Italic
+* Bold / Bold Italic
+* ExtraBold / ExtraBold Italic
+* Black / Black Italic
 
 To contribute to the project contact [Omnibus-Type](http://omnibus-type.com/).
 
@@ -42,9 +42,9 @@ This information should be distributed along with the Saira fonts and any deriva
 
 ### Saira is a typeface family that supports the following Unicode language range: 
 
-* Basic Latin 			U+0020-U+007E
-* Latin-1 Supplement 		U+00A0-U+00FF
-* Latin Extended-A 		U+0100-U+017F
+* Basic Latin 					U+0020-U+007E
+* Latin-1 Supplement 			U+00A0-U+00FF
+* Latin Extended-A 				U+0100-U+017F
 * Latin Extended Additional*	U+1E00-U+1EFF *(111/256)
 
 **Character map to support MS Codepages:**
