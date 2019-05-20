@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="doubleprimemod" format="1">
-  <advance width="432"/>
-  <unicode hex="02BA"/>
-  <outline>
-    <component base="primemod" xOffset="-63"/>
-    <component base="primemod" xScale="0.996" xyScale="-0.087" yScale="0.996" yxScale="0.087" xOffset="109" yOffset="9"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="yacute.loclGUA" format="1">
-  <advance width="588"/>
-  <outline>
-    <component base="y"/>
-    <component base="acutecomb" xOffset="521"/>
-  </outline>
-</glyph>
