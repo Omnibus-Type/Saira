@@ -1,5 +1,5 @@
 {
-.appVersion = "1235";
+.appVersion = "1230";
 classes = (
 {
 automatic = 1;
@@ -49,7 +49,7 @@ nine.numr";
 name = numr;
 }
 );
-copyright = "Copyright (c) 2019, The Saira Stencil Project Authors (https://github.com/Omnibus-Type/Saira/SairaStencil)";
+copyright = "Copyright 2019 The Saira Stencil Project Authors (https://github.com/Omnibus-Type/Saira)";
 customParameters = (
 {
 name = trademark;
