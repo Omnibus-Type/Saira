@@ -1,9 +1,8 @@
 {
-.appVersion = "1252";
+.appVersion = "1245";
 DisplayStrings = (
 "/commercialMinusSign ×%/perthousand",
-"/ellipsis",
-ij
+"/ellipsis"
 );
 classes = (
 {
@@ -69277,10 +69276,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"97 662 LINE",
+"97 682 LINE",
 "97 743 LINE",
 "58 743 LINE",
-"58 662 LINE"
+"58 682 LINE"
 );
 }
 );
@@ -69325,10 +69324,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"174 590 LINE",
+"174 610 LINE",
 "174 743 LINE",
 "30 743 LINE",
-"30 590 LINE"
+"30 610 LINE"
 );
 }
 );
@@ -69373,10 +69372,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"162 614 LINE",
+"162 634 LINE",
 "162 743 LINE",
 "54 743 LINE",
-"54 614 LINE"
+"54 634 LINE"
 );
 }
 );

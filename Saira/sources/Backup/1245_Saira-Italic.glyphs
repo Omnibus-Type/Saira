@@ -1,8 +1,7 @@
 {
-.appVersion = "1252";
+.appVersion = "1245";
 DisplayStrings = (
-ij,
-"/ellipsis"
+"H/ellipsis H"
 );
 classes = (
 {
@@ -77,7 +76,6 @@ featurePrefixes = (
 {
 automatic = 1;
 code = "languagesystem DFLT dflt;
-
 languagesystem latn dflt;
 languagesystem latn TRK;
 languagesystem latn AZE;
@@ -157,7 +155,6 @@ lookup ccmp_latn_1 {
 } ccmp_latn_1;
 
 script latn;
-lookup ccmp_latn_1;
 ";
 name = ccmp;
 },
@@ -52945,10 +52942,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"249 590 LINE",
+"253 610 LINE",
 "282 743 LINE",
 "138 743 LINE",
-"105 590 LINE"
+"109 610 LINE"
 );
 }
 );
@@ -52965,10 +52962,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"185 662 LINE",
+"190 682 LINE",
 "203 743 LINE",
 "164 743 LINE",
-"146 662 LINE"
+"151 682 LINE"
 );
 }
 );
@@ -53005,10 +53002,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"235 614 LINE",
-"263 743 LINE",
-"154 743 LINE",
-"126 614 LINE"
+"241 638 LINE",
+"264 743 LINE",
+"155 743 LINE",
+"133 638 LINE"
 );
 }
 );

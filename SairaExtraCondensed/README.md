@@ -41,9 +41,9 @@ This information should be distributed along with the Saira fonts and any deriva
 
 ### Saira is a typeface family that supports the following Unicode language range: 
 
-* Basic Latin 			U+0020-U+007E
-* Latin-1 Supplement 		U+00A0-U+00FF
-* Latin Extended-A 		U+0100-U+017F
+* Basic Latin 					U+0020-U+007E
+* Latin-1 Supplement 			U+00A0-U+00FF
+* Latin Extended-A 				U+0100-U+017F
 * Latin Extended Additional*	U+1E00-U+1EFF *(111/256)
 
 **Character map to support MS Codepages:**
@@ -55,6 +55,9 @@ This information should be distributed along with the Saira fonts and any deriva
 * Mac Roman
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**2019 August 5 (v0.072) fixing some glyphs (Omnibus-Type)**
+- Small fixes on ellipsis and j dotaccent
 
 **2018 October 29 (v0.072) New Italics (Omnibus-Type)**
 - Updated to GF Latin Plus set
