@@ -5,7 +5,7 @@
 *18 fonts, 885 glyphs each variant (Press Series).*
 *Tipos Latinos 2014*
 
-Saira is a contemporary sans serif system, a versatile family of 18 styles (9 different weight variants, plus matching italics.) It is part of the Press Series, for it is applicable in newspapers, magazines, books and websites. Showing high adaptability, it can be used in headlines and long texts. The original masters were designed by Héctor Gatti. The character sets were later completed by the Omnibus-Type Team.
+Saira is a contemporary sans serif system, a versatile family of 18 styles (9 different weight vari ants, plus matching italics.) It is part of the Press Series, for it is applicable in newspapers, magazines, books and websites. Showing high adaptability, it can be used in headlines and long texts. The original masters were designed by Héctor Gatti. The character sets were later completed by the Omnibus-Type Team.
 
 ![Sample of Saira Family.](Saira-01.png "Saira")
 ![Sample of Saira Family.](Saira-02.png "Saira")
@@ -30,7 +30,7 @@ To contribute to the project contact [Omnibus-Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)
+Copyright (c) 2020, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -56,6 +56,13 @@ This information should be distributed along with the Saira fonts and any deriva
 * Mac Roman
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**2020 February 5 (v1.001) Configuring axes (Omnibus-Type)**
+- New variable font
+- Corrected axes for better performance
+– Adding Ultra Condensed style
+- Adding Semi Expanded style
+– Adding Expanded style
 
 **2019 August 5 (v0.072) fixing some glyphs (Omnibus-Type)**
 - Small fixes on ellipsis and j dotaccent

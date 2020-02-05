@@ -1,4 +1,4 @@
-Copyright (c) 2019, The Saira Project Authors (https://github.com/Omnibus-Type/Saira/Saira)
+Copyright 2020 The Saira Project Authors (https://github.com/Omnibus-Type/Saira/Saira)
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

@@ -1,4 +1,4 @@
-Copyright (c) 2019, The Saira Extra Condensed Project Authors (https://github.com/Omnibus-Type/Saira/SairaExtraCondensed)
+Copyright 2020 The Saira Extra Condensed Project Authors (https://github.com/Omnibus-Type/Saira/SairaExtraCondensed)
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

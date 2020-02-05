@@ -1,4 +1,4 @@
-# Saira Semicondensed family
+# Saira Semi Condensed family
 
 **Gatti & Omnibus-Type Team**
 *SIL Open Font License 1.1,*
@@ -11,7 +11,7 @@ Saira Semi Condensed is a contemporary sans serif system, a versatile family of 
 ![Sample of Saira Family.](SairaSemiCond-02.png "Saira Semicondensed")
 
 
-#### Saira Semicondensed Family contains:
+#### Saira Semi Condensed Family contains:
 * Semicondensed Thin / Semicondensed Thin Italic
 * Semicondensed ExtraLight / Semicondensed ExtraLight Italic
 * Semicondensed Light / Semicondensed Light Italic
@@ -30,7 +30,7 @@ To contribute to the project contact [Omnibus-Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)
+Copyright (c) 2020, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -56,6 +56,13 @@ This information should be distributed along with the Saira fonts and any deriva
 * Mac Roman
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**2020 February 5 (v1.001) Configuring axes (Omnibus-Type)**
+- New variable font
+- Corrected axes for better performance
+– Adding Ultra Condensed style
+- Adding Semi Expanded style
+– Adding Expanded style 
 
 **2019 August 5 (v0.072) fixing some glyphs (Omnibus-Type)**
 - Small fixes on ellipsis and j dotaccent
