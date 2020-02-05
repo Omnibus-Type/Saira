@@ -9,7 +9,7 @@ Saira is a contemporary sans serif system, a versatile family of 72 styles (9 di
 
 ![Sample of Saira Family.](Sairas-01.png "Saira")
 ![Sample of Saira Family.](Sairas-02.png "Saira")
-
+![Sample of Saira Family.](Sairas-03.png "Saira")
 
 #### Saira Family contains:
 * Thin / Thin Italic
@@ -56,6 +56,13 @@ This information should be distributed along with the Saira fonts and any deriva
 * Mac Roman
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**2020 February 5 (v1.001) Configuring axes (Omnibus-Type)**
+- New variable font
+- Corrected axes for better performance
+– Adding Ultra Condensed style
+- Adding Semi Expanded style
+– Adding Expanded style
 
 **2018 October 29 (v0.072) New Italics (Omnibus-Type)**
 - Updated to GF Latin Plus set
