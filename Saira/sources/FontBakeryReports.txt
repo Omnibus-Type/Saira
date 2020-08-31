@@ -1,0 +1,34 @@
+Saira Ultra Condensed
+
+https://fontbakery.graphicore.de/report/ec69d25e-2a7a-43b6-aeb8-9d53df992be4
+
+Saira Extra Condensed
+
+https://fontbakery.graphicore.de/report/68cec25a-a165-4dd6-bb26-7ccec48c1726
+
+Saira Condensed
+
+https://fontbakery.graphicore.de/report/c245d8fe-da10-440d-a64c-d98fc0e24b61
+
+Saira Semi Condensed
+
+https://fontbakery.graphicore.de/report/71740d2a-4b7e-42bb-a39e-cd5536a6593c
+
+Saira
+
+https://fontbakery.graphicore.de/report/4a95b509-0cd6-481e-bebb-f400490f8e4c
+
+Saira Semi Expanded
+
+https://fontbakery.graphicore.de/report/5ad17015-ef4f-405a-8023-e7c900b26b39
+
+Saira Expanded
+
+https://fontbakery.graphicore.de/report/1d3cb1ed-dc74-4f0d-877b-4eeaf7d34dbb
+
+Saira VF
+
+https://fontbakery.graphicore.de/report/a17e352d-8dc4-4471-9110-02337553311d
+
+<!-- Width -->
+<!-- PostScript: SairaRoman-Thin -->
