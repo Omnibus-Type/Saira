@@ -1,5 +1,5 @@
 {
-.appVersion = "1350";
+.appVersion = "3095";
 classes = (
 {
 automatic = 1;
@@ -64,6 +64,14 @@ name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = OMNI;
+},
+{
 name = Axes;
 value = (
 {
@@ -75,14 +83,6 @@ Name = Width;
 Tag = wdth;
 }
 );
-},
-{
-name = licenseURL;
-value = "https://scripts.sil.org/OFL";
-},
-{
-name = vendorID;
-value = OMNI;
 }
 );
 date = "2020-11-17 16:19:45 +0000";
@@ -1377,8 +1377,8 @@ position = "{0, 595}";
 horizontalStems = (
 105
 );
-iconName = SemiCondensed;
 id = "374FF654-0B40-45EE-AE97-0DEB7620D1EC";
+name = "Condensed Medium";
 userData = {
 GSOffsetHorizontal = 50;
 GSOffsetMakeStroke = 1;
@@ -1391,7 +1391,7 @@ verticalStems = (
 112
 );
 weightValue = 128;
-width = Condensed;
+width = SemiCondensed;
 widthValue = 75;
 xHeight = 510;
 },
@@ -274408,5 +274408,5 @@ oV = 36;
 LWPluginVersion = "1429";
 };
 versionMajor = 1;
-versionMinor = 100;
+versionMinor = 101;
 }
