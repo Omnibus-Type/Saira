@@ -5,7 +5,7 @@
 *72 fonts, 885 glyphs each variant (Press Series).*
 *Tipos Latinos 2014*
 
-Saira is a contemporary sans serif system, a versatile family of 72 styles (9 different weight variants, in 4 widths, plus matching italics.) It is part of the Press Series, for it is applicable in newspapers, magazines, books and websites. Showing high adaptability, it can be used in headlines and long texts. The original masters were designed by Héctor Gatti. The character sets were later completed by the Omnibus-Type Team.
+Saira is a contemporary sans serif system, a versatile family of 126 styles (9 different weight variants, in 7 widths, plus matching italics.) It is part of the Press Series, for it is applicable in newspapers, magazines, books and websites. Showing high adaptability, it can be used in headlines and long texts. The original masters were designed by Héctor Gatti. The character sets were later completed by the Omnibus-Type Team.
 
 ![Sample of Saira Family.](Sairas-01.png "Saira")
 ![Sample of Saira Family.](Sairas-02.png "Saira")
